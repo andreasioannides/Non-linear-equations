@@ -1,5 +1,5 @@
 # Non-linear-equations
-In this code I provide all Close and Open methods to solve Non Linear equations. 
+In this code I provide all Close and Open methods to solve Non Linear equations. \n
 
 The Close methods are: 1) Bisection, 2) Regula Falsi. 
 The Open methods are: 1) Fixed Point, 2) Newton&Raphson, 3) Secant, 4) Muller.
